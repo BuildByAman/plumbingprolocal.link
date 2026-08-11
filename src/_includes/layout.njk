@@ -50,7 +50,6 @@
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <link rel="dns-prefetch" href="https://www.clarity.ms">
-  <link rel="dns-prefetch" href="https://leadslytic.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"></noscript>
   
@@ -112,8 +111,19 @@
           y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
       })(window, document, "clarity", "script", "xutpx9wk2f");
   </script>
-  {# Leadslytic widget — defer #}
-  <script src="https://leadslytic.com/widget.js" data-id="20c5e82a-52f4-43c9-b0d3-c90ba2e69b2d" defer></script>
+  {# Call Button Tracking for MS Clarity #}
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var callButtons = document.querySelectorAll('a[href^="tel:"]');
+      callButtons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          if (typeof clarity === 'function') {
+            clarity("event", "CallButtonClick");
+          }
+        });
+      });
+    });
+  </script>
 
   {# Google Analytics — async #}
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-QEE10Q0T6E"></script>
