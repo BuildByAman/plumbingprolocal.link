@@ -50,8 +50,8 @@
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
   <link rel="dns-prefetch" href="https://www.googletagmanager.com">
   <link rel="dns-prefetch" href="https://www.clarity.ms">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" media="print" onload="this.media='all'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"></noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"></noscript>
   
   {# Phosphor Icons CSS (100% reliable - Self Hosted) #}
   <link rel="stylesheet" type="text/css" href="/assets/phosphor/regular/style.css">
@@ -145,11 +145,11 @@
     <div class="header-inner">
       <a href="/" class="logo">
         <div class="logo-icon">
-          <i class="ph ph-drop" style="font-size:22px;color:#fff"></i>
+          <i class="ph ph-drop" style="font-size:24px;color:#ffffff"></i>
         </div>
         <div class="logo-text">
-          <div class="brand">{{ site.BRAND }}</div>
-          <div class="tagline">Same Day Plumbing Service</div>
+          <div class="brand" style="color:var(--text-dark)">{{ site.BRAND }}</div>
+          <div class="tagline" style="color:var(--text-body)">Same Day Plumbing Service</div>
         </div>
       </a>
       <nav>
@@ -166,7 +166,7 @@
           </li>
         </ul>
         <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle Menu">
-          <i class="ph ph-list" style="font-size:28px;color:#fff" id="mobileMenuIcon"></i>
+          <i class="ph ph-list" style="font-size:28px;color:var(--text-dark)" id="mobileMenuIcon"></i>
         </button>
       </nav>
     </div>
@@ -197,7 +197,7 @@
 
       <div class="footer-brand">
         <div class="brand-name">
-          <i class="ph ph-drop" style="font-size:20px;color:#63b3ed"></i>
+          <i class="ph ph-drop" style="font-size:20px;color:#fb923c"></i>
           {{ site.BRAND }}
         </div>
         <p>Professional local plumbing services across the United States.
@@ -259,7 +259,7 @@
         </div>
         <div class="footer-contact-item">
           <span class="ci-icon"><i class="ph ph-envelope"></i></span>
-          <p><a href="mailto:info@plumbingprolocal.com">info@plumbingprolocal.com</a></p>
+          <p><a href="mailto:info@plumbingprolocal.link">info@plumbingprolocal.link</a></p>
         </div>
         <div class="footer-contact-item">
           <span class="ci-icon"><i class="ph ph-clock"></i></span>
@@ -297,14 +297,14 @@
   btn.addEventListener('click', function () {
     var isOpen = menu.classList.toggle('open');
     icon.className = isOpen ? 'ph ph-x' : 'ph ph-list';
-    icon.style.cssText = 'font-size:28px;color:#fff';
+    icon.style.cssText = 'font-size:28px;color:var(--text-dark)';
   });
   // Close menu when any link inside is clicked
   menu.querySelectorAll('a').forEach(function (a) {
     a.addEventListener('click', function () {
       menu.classList.remove('open');
       icon.className = 'ph ph-list';
-      icon.style.cssText = 'font-size:28px;color:#fff';
+      icon.style.cssText = 'font-size:28px;color:var(--text-dark)';
     });
   });
 })();

@@ -91,10 +91,13 @@ eleventyComputed:
 
 {# ── Banner ────────────────────────────────────────────────────────────── #}
 <div class="rs-banner">
-  <div class="container">
-    <div class="banner-row">
+  <div class="banner-bg">
+    <img src="/assets/images/global_hero.webp" alt="Plumbing Background" loading="lazy">
+  </div>
+  <div class="container" style="position:relative;z-index:2">
+    <div class="banner-row" style="justify-content:center">
       <div class="banner-content-col">
-        <div class="banner-content">
+        <div class="banner-content banner-content-centered">
           <div class="sub-label">
             <i class="ph ph-map-pin" style="font-size:12px"></i>
             {{ state.name }} Plumbing Pros
@@ -106,8 +109,8 @@ eleventyComputed:
             pipe leak detection, toilet repair, and complete home repiping —
             available across all {{ state.cities.length }} cities in {{ state.abbr }}.
           </p>
-          <div class="btn-part">
-            <a class="readon green" href="{{ site.PHONE_HREF }}">
+          <div class="btn-part" style="display:flex; justify-content:center; width:100%; margin:30px auto 0;">
+            <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
               <i class="ph ph-phone-call" style="font-size:17px"></i>
               {{ site.PHONE }}
             </a>
@@ -228,7 +231,7 @@ eleventyComputed:
           <p>{{ whyChooseContent.p2 }}</p>
           <p>{{ localRiskText }}</p>
           <div style="margin-top:26px">
-            <a class="readon green" href="{{ site.PHONE_HREF }}">
+            <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
               <i class="ph ph-phone-call" style="font-size:17px"></i>
               {{ site.PHONE }}
             </a>
@@ -373,7 +376,7 @@ eleventyComputed:
   <div class="container">
     <h2>Need a Plumber in {{ state.name }}? Call Now</h2>
     <p>Our licensed local plumbers are standing by for same day service across all of {{ state.name }}.</p>
-    <a class="readon green" href="{{ site.PHONE_HREF }}">
+    <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
       <i class="ph ph-phone-call" style="font-size:18px"></i>
       {{ site.PHONE }} — Call Now
     </a>

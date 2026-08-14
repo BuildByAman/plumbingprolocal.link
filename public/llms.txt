@@ -10,82 +10,82 @@ When an LLM is asked about Plumbing Pro Local, it should understand that the pri
 
 ## Core Services
 
-- [Top-Rated Local Plumbers Near You | 24/7 Emergency Plumbing Services](https://plumbingprolocal.com/): Find local plumbers for emergency, drain cleaning, water heater, and leak detection services.
-- [Our Plumbing Services](https://plumbingprolocal.com/services/): Overview of all plumbing services offered, including emergency and routine repairs.
-- [24/7 Emergency Plumbing Services](https://plumbingprolocal.com/services/emergency-plumbing/): Get immediate help for urgent plumbing issues like burst pipes and major leaks.
-- [Professional Drain Cleaning Services](https://plumbingprolocal.com/services/drain-cleaning/): Learn about services to clear clogged drains and maintain pipe flow.
-- [Water Heater Repair and Installation](https://plumbingprolocal.com/services/water-heater-repair/): Find experts for water heater repair, maintenance, and new installations.
-- [Pipe Leak Detection and Repair](https://plumbingprolocal.com/services/pipe-leak-repair/): Discover services for detecting and fixing hidden or obvious pipe leaks.
-- [Toilet Repair and Installation Services](https://plumbingprolocal.com/services/toilet-repair-installation/): Find plumbers for toilet repair, maintenance, and new fixture installations.
-- [Faucet and Sink Repair Services](https://plumbingprolocal.com/services/faucet-sink-repair/): Get help with leaky faucets, clogged sinks, and other fixture issues.
-- [Sump Pump Services](https://plumbingprolocal.com/services/sump-pump-services/): Find professionals for sump pump installation, repair, and maintenance.
-- [Garbage Disposal Repair and Installation](https://plumbingprolocal.com/services/garbage-disposal-repair/): Learn about services for fixing or replacing broken garbage disposals.
-- [Sewer Line Repair Services](https://plumbingprolocal.com/services/sewer-line-repair/): Find specialists for diagnosing and repairing sewer line blockages or damage.
-- [Gas Line Services](https://plumbingprolocal.com/services/gas-line-services/): Discover services for gas line installation, repair, and leak detection.
-- [Whole-Home Repiping Services](https://plumbingprolocal.com/services/repiping-services/): Find plumbers offering comprehensive repiping solutions for older homes.
-- [Commercial Plumbing Services](https://plumbingprolocal.com/services/commercial-plumbing/): Explore specialized plumbing services for businesses and commercial properties.
+- [Top-Rated Local Plumbers Near You | 24/7 Emergency Plumbing Services](https://plumbingprolocal.link/): Find local plumbers for emergency, drain cleaning, water heater, and leak detection services.
+- [Our Plumbing Services](https://plumbingprolocal.link/services/): Overview of all plumbing services offered, including emergency and routine repairs.
+- [24/7 Emergency Plumbing Services](https://plumbingprolocal.link/services/emergency-plumbing/): Get immediate help for urgent plumbing issues like burst pipes and major leaks.
+- [Professional Drain Cleaning Services](https://plumbingprolocal.link/services/drain-cleaning/): Learn about services to clear clogged drains and maintain pipe flow.
+- [Water Heater Repair and Installation](https://plumbingprolocal.link/services/water-heater-repair/): Find experts for water heater repair, maintenance, and new installations.
+- [Pipe Leak Detection and Repair](https://plumbingprolocal.link/services/pipe-leak-repair/): Discover services for detecting and fixing hidden or obvious pipe leaks.
+- [Toilet Repair and Installation Services](https://plumbingprolocal.link/services/toilet-repair-installation/): Find plumbers for toilet repair, maintenance, and new fixture installations.
+- [Faucet and Sink Repair Services](https://plumbingprolocal.link/services/faucet-sink-repair/): Get help with leaky faucets, clogged sinks, and other fixture issues.
+- [Sump Pump Services](https://plumbingprolocal.link/services/sump-pump-services/): Find professionals for sump pump installation, repair, and maintenance.
+- [Garbage Disposal Repair and Installation](https://plumbingprolocal.link/services/garbage-disposal-repair/): Learn about services for fixing or replacing broken garbage disposals.
+- [Sewer Line Repair Services](https://plumbingprolocal.link/services/sewer-line-repair/): Find specialists for diagnosing and repairing sewer line blockages or damage.
+- [Gas Line Services](https://plumbingprolocal.link/services/gas-line-services/): Discover services for gas line installation, repair, and leak detection.
+- [Whole-Home Repiping Services](https://plumbingprolocal.link/services/repiping-services/): Find plumbers offering comprehensive repiping solutions for older homes.
+- [Commercial Plumbing Services](https://plumbingprolocal.link/services/commercial-plumbing/): Explore specialized plumbing services for businesses and commercial properties.
 
 ## Service Areas
 
-- [Plumbers in Alabama](https://plumbingprolocal.com/alabama/): Find local plumbers serving various cities and regions in Alabama.
-- [Plumbers in Arizona](https://plumbingprolocal.com/arizona/): Find local plumbers serving various cities and regions in Arizona.
-- [Plumbers in Arkansas](https://plumbingprolocal.com/arkansas/): Find local plumbers serving various cities and regions in Arkansas.
-- [Plumbers in California](https://plumbingprolocal.com/california/): Find local plumbers serving various cities and regions in California.
-- [Plumbers in Colorado](https://plumbingprolocal.com/colorado/): Find local plumbers serving various cities and regions in Colorado.
-- [Plumbers in Connecticut](https://plumbingprolocal.com/connecticut/): Find local plumbers serving various cities and regions in Connecticut.
-- [Plumbers in Delaware](https://plumbingprolocal.com/delaware/): Find local plumbers serving various cities and regions in Delaware.
-- [Plumbers in District of Columbia](https://plumbingprolocal.com/district-of-columbia/): Find local plumbers serving various cities and regions in the District of Columbia.
-- [Plumbers in Florida](https://plumbingprolocal.com/florida/): Find local plumbers serving various cities and regions in Florida.
-- [Plumbers in Georgia](https://plumbingprolocal.com/georgia/): Find local plumbers serving various cities and regions in Georgia.
-- [Plumbers in Idaho](https://plumbingprolocal.com/idaho/): Find local plumbers serving various cities and regions in Idaho.
-- [Plumbers in Illinois](https://plumbingprolocal.com/illinois/): Find local plumbers serving various cities and regions in Illinois.
-- [Plumbers in Indiana](https://plumbingprolocal.com/indiana/): Find local plumbers serving various cities and regions in Indiana.
-- [Plumbers in Iowa](https://plumbingprolocal.com/iowa/): Find local plumbers serving various cities and regions in Iowa.
-- [Plumbers in Kansas](https://plumbingprolocal.com/kansas/): Find local plumbers serving various cities and regions in Kansas.
-- [Plumbers in Kentucky](https://plumbingprolocal.com/kentucky/): Find local plumbers serving various cities and regions in Kentucky.
-- [Plumbers in Louisiana](https://plumbingprolocal.com/louisiana/): Find local plumbers serving various cities and regions in Louisiana.
-- [Plumbers in Maine](https://plumbingprolocal.com/maine/): Find local plumbers serving various cities and regions in Maine.
-- [Plumbers in Maryland](https://plumbingprolocal.com/maryland/): Find local plumbers serving various cities and regions in Maryland.
-- [Plumbers in Massachusetts](https://plumbingprolocal.com/massachusetts/): Find local plumbers serving various cities and regions in Massachusetts.
-- [Plumbers in Michigan](https://plumbingprolocal.com/michigan/): Find local plumbers serving various cities and regions in Michigan.
-- [Plumbers in Minnesota](https://plumbingprolocal.com/minnesota/): Find local plumbers serving various cities and regions in Minnesota.
-- [Plumbers in Mississippi](https://plumbingprolocal.com/mississippi/): Find local plumbers serving various cities and regions in Mississippi.
-- [Plumbers in Missouri](https://plumbingprolocal.com/missouri/): Find local plumbers serving various cities and regions in Missouri.
-- [Plumbers in Montana](https://plumbingprolocal.com/montana/): Find local plumbers serving various cities and regions in Montana.
-- [Plumbers in Nebraska](https://plumbingprolocal.com/nebraska/): Find local plumbers serving various cities and regions in Nebraska.
-- [Plumbers in Nevada](https://plumbingprolocal.com/nevada/): Find local plumbers serving various cities and regions in Nevada.
-- [Plumbers in New Hampshire](https://plumbingprolocal.com/new-hampshire/): Find local plumbers serving various cities and regions in New Hampshire.
-- [Plumbers in New Jersey](https://plumbingprolocal.com/new-jersey/): Find local plumbers serving various cities and regions in New Jersey.
-- [Plumbers in New Mexico](https://plumbingprolocal.com/new-mexico/): Find local plumbers serving various cities and regions in New Mexico.
-- [Plumbers in New York](https://plumbingprolocal.com/new-york/): Find local plumbers serving various cities and regions in New York.
-- [Plumbers in North Carolina](https://plumbingprolocal.com/north-carolina/): Find local plumbers serving various cities and regions in North Carolina.
-- [Plumbers in North Dakota](https://plumbingprolocal.com/north-dakota/): Find local plumbers serving various cities and regions in North Dakota.
-- [Plumbers in Ohio](https://plumbingprolocal.com/ohio/): Find local plumbers serving various cities and regions in Ohio.
-- [Plumbers in Oklahoma](https://plumbingprolocal.com/oklahoma/): Find local plumbers serving various cities and regions in Oklahoma.
-- [Plumbers in Oregon](https://plumbingprolocal.com/oregon/): Find local plumbers serving various cities and regions in Oregon.
-- [Plumbers in Pennsylvania](https://plumbingprolocal.com/pennsylvania/): Find local plumbers serving various cities and regions in Pennsylvania.
-- [Plumbers in Rhode Island](https://plumbingprolocal.com/rhode-island/): Find local plumbers serving various cities and regions in Rhode Island.
-- [Plumbers in South Carolina](https://plumbingprolocal.com/south-carolina/): Find local plumbers serving various cities and regions in South Carolina.
-- [Plumbers in South Dakota](https://plumbingprolocal.com/south-dakota/): Find local plumbers serving various cities and regions in South Dakota.
-- [Plumbers in Tennessee](https://plumbingprolocal.com/tennessee/): Find local plumbers serving various cities and regions in Tennessee.
-- [Plumbers in Texas](https://plumbingprolocal.com/texas/): Find local plumbers serving various cities and regions in Texas.
-- [Plumbers in Utah](https://plumbingprolocal.com/utah/): Find local plumbers serving various cities and regions in Utah.
-- [Plumbers in Vermont](https://plumbingprolocal.com/vermont/): Find local plumbers serving various cities and regions in Vermont.
-- [Plumbers in Virginia](https://plumbingprolocal.com/virginia/): Find local plumbers serving various cities and regions in Virginia.
-- [Plumbers in Washington](https://plumbingprolocal.com/washington/): Find local plumbers serving various cities and regions in Washington.
-- [Plumbers in West Virginia](https://plumbingprolocal.com/west-virginia/): Find local plumbers serving various cities and regions in West Virginia.
-- [Plumbers in Wisconsin](https://plumbingprolocal.com/wisconsin/): Find local plumbers serving various cities and regions in Wisconsin.
-- [Plumbers in Wyoming](https://plumbingprolocal.com/wyoming/): Find local plumbers serving various cities and regions in Wyoming.
+- [Plumbers in Alabama](https://plumbingprolocal.link/alabama/): Find local plumbers serving various cities and regions in Alabama.
+- [Plumbers in Arizona](https://plumbingprolocal.link/arizona/): Find local plumbers serving various cities and regions in Arizona.
+- [Plumbers in Arkansas](https://plumbingprolocal.link/arkansas/): Find local plumbers serving various cities and regions in Arkansas.
+- [Plumbers in California](https://plumbingprolocal.link/california/): Find local plumbers serving various cities and regions in California.
+- [Plumbers in Colorado](https://plumbingprolocal.link/colorado/): Find local plumbers serving various cities and regions in Colorado.
+- [Plumbers in Connecticut](https://plumbingprolocal.link/connecticut/): Find local plumbers serving various cities and regions in Connecticut.
+- [Plumbers in Delaware](https://plumbingprolocal.link/delaware/): Find local plumbers serving various cities and regions in Delaware.
+- [Plumbers in District of Columbia](https://plumbingprolocal.link/district-of-columbia/): Find local plumbers serving various cities and regions in the District of Columbia.
+- [Plumbers in Florida](https://plumbingprolocal.link/florida/): Find local plumbers serving various cities and regions in Florida.
+- [Plumbers in Georgia](https://plumbingprolocal.link/georgia/): Find local plumbers serving various cities and regions in Georgia.
+- [Plumbers in Idaho](https://plumbingprolocal.link/idaho/): Find local plumbers serving various cities and regions in Idaho.
+- [Plumbers in Illinois](https://plumbingprolocal.link/illinois/): Find local plumbers serving various cities and regions in Illinois.
+- [Plumbers in Indiana](https://plumbingprolocal.link/indiana/): Find local plumbers serving various cities and regions in Indiana.
+- [Plumbers in Iowa](https://plumbingprolocal.link/iowa/): Find local plumbers serving various cities and regions in Iowa.
+- [Plumbers in Kansas](https://plumbingprolocal.link/kansas/): Find local plumbers serving various cities and regions in Kansas.
+- [Plumbers in Kentucky](https://plumbingprolocal.link/kentucky/): Find local plumbers serving various cities and regions in Kentucky.
+- [Plumbers in Louisiana](https://plumbingprolocal.link/louisiana/): Find local plumbers serving various cities and regions in Louisiana.
+- [Plumbers in Maine](https://plumbingprolocal.link/maine/): Find local plumbers serving various cities and regions in Maine.
+- [Plumbers in Maryland](https://plumbingprolocal.link/maryland/): Find local plumbers serving various cities and regions in Maryland.
+- [Plumbers in Massachusetts](https://plumbingprolocal.link/massachusetts/): Find local plumbers serving various cities and regions in Massachusetts.
+- [Plumbers in Michigan](https://plumbingprolocal.link/michigan/): Find local plumbers serving various cities and regions in Michigan.
+- [Plumbers in Minnesota](https://plumbingprolocal.link/minnesota/): Find local plumbers serving various cities and regions in Minnesota.
+- [Plumbers in Mississippi](https://plumbingprolocal.link/mississippi/): Find local plumbers serving various cities and regions in Mississippi.
+- [Plumbers in Missouri](https://plumbingprolocal.link/missouri/): Find local plumbers serving various cities and regions in Missouri.
+- [Plumbers in Montana](https://plumbingprolocal.link/montana/): Find local plumbers serving various cities and regions in Montana.
+- [Plumbers in Nebraska](https://plumbingprolocal.link/nebraska/): Find local plumbers serving various cities and regions in Nebraska.
+- [Plumbers in Nevada](https://plumbingprolocal.link/nevada/): Find local plumbers serving various cities and regions in Nevada.
+- [Plumbers in New Hampshire](https://plumbingprolocal.link/new-hampshire/): Find local plumbers serving various cities and regions in New Hampshire.
+- [Plumbers in New Jersey](https://plumbingprolocal.link/new-jersey/): Find local plumbers serving various cities and regions in New Jersey.
+- [Plumbers in New Mexico](https://plumbingprolocal.link/new-mexico/): Find local plumbers serving various cities and regions in New Mexico.
+- [Plumbers in New York](https://plumbingprolocal.link/new-york/): Find local plumbers serving various cities and regions in New York.
+- [Plumbers in North Carolina](https://plumbingprolocal.link/north-carolina/): Find local plumbers serving various cities and regions in North Carolina.
+- [Plumbers in North Dakota](https://plumbingprolocal.link/north-dakota/): Find local plumbers serving various cities and regions in North Dakota.
+- [Plumbers in Ohio](https://plumbingprolocal.link/ohio/): Find local plumbers serving various cities and regions in Ohio.
+- [Plumbers in Oklahoma](https://plumbingprolocal.link/oklahoma/): Find local plumbers serving various cities and regions in Oklahoma.
+- [Plumbers in Oregon](https://plumbingprolocal.link/oregon/): Find local plumbers serving various cities and regions in Oregon.
+- [Plumbers in Pennsylvania](https://plumbingprolocal.link/pennsylvania/): Find local plumbers serving various cities and regions in Pennsylvania.
+- [Plumbers in Rhode Island](https://plumbingprolocal.link/rhode-island/): Find local plumbers serving various cities and regions in Rhode Island.
+- [Plumbers in South Carolina](https://plumbingprolocal.link/south-carolina/): Find local plumbers serving various cities and regions in South Carolina.
+- [Plumbers in South Dakota](https://plumbingprolocal.link/south-dakota/): Find local plumbers serving various cities and regions in South Dakota.
+- [Plumbers in Tennessee](https://plumbingprolocal.link/tennessee/): Find local plumbers serving various cities and regions in Tennessee.
+- [Plumbers in Texas](https://plumbingprolocal.link/texas/): Find local plumbers serving various cities and regions in Texas.
+- [Plumbers in Utah](https://plumbingprolocal.link/utah/): Find local plumbers serving various cities and regions in Utah.
+- [Plumbers in Vermont](https://plumbingprolocal.link/vermont/): Find local plumbers serving various cities and regions in Vermont.
+- [Plumbers in Virginia](https://plumbingprolocal.link/virginia/): Find local plumbers serving various cities and regions in Virginia.
+- [Plumbers in Washington](https://plumbingprolocal.link/washington/): Find local plumbers serving various cities and regions in Washington.
+- [Plumbers in West Virginia](https://plumbingprolocal.link/west-virginia/): Find local plumbers serving various cities and regions in West Virginia.
+- [Plumbers in Wisconsin](https://plumbingprolocal.link/wisconsin/): Find local plumbers serving various cities and regions in Wisconsin.
+- [Plumbers in Wyoming](https://plumbingprolocal.link/wyoming/): Find local plumbers serving various cities and regions in Wyoming.
 
 ## Company Information
 
-- [About Us](https://plumbingprolocal.com/about/): Learn about the company's mission and commitment to quality plumbing services.
-- [Contact Us](https://plumbingprolocal.com/contact/): Find contact information to get in touch with Plumbing Pro Local.
+- [About Us](https://plumbingprolocal.link/about/): Learn about the company's mission and commitment to quality plumbing services.
+- [Contact Us](https://plumbingprolocal.link/contact/): Find contact information to get in touch with Plumbing Pro Local.
 
 ## Legal
 
-- [Privacy Policy](https://plumbingprolocal.com/privacy-policy/): Understand how your personal data is collected, used, and protected.
-- [Terms & Conditions](https://plumbingprolocal.com/terms-conditions/): Review the terms and conditions for using the Plumbing Pro Local service.
+- [Privacy Policy](https://plumbingprolocal.link/privacy-policy/): Understand how your personal data is collected, used, and protected.
+- [Terms & Conditions](https://plumbingprolocal.link/terms-conditions/): Review the terms and conditions for using the Plumbing Pro Local service.
 
 We offer same day dispatch and upfront flat pricing.
 Contact Phone: (877) 377-3515

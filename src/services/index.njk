@@ -65,10 +65,13 @@ permalink: "services/index.html"
 
 {# ── Banner ────────────────────────────────────────────────────────────── #}
 <div class="rs-banner">
-  <div class="container">
-    <div class="banner-row">
+  <div class="banner-bg">
+    <img src="/assets/images/global_hero.webp" alt="Plumbing Background" loading="lazy">
+  </div>
+  <div class="container" style="position:relative;z-index:2">
+    <div class="banner-row" style="justify-content:center">
       <div class="banner-content-col">
-        <div class="banner-content">
+        <div class="banner-content banner-content-centered">
           <div class="sub-label">
             <i class="ph ph-map-pin" style="font-size:12px"></i>
             Our Services
@@ -80,8 +83,8 @@ permalink: "services/index.html"
             Find reliable and licensed local plumbers near you. Same day service available — call us 24/7 for emergency
             plumbing, wiring upgrade, panel repair, outlet repair &amp; more.
           </p>
-          <div class="btn-part">
-            <a class="readon green" href="{{ site.PHONE_HREF }}">
+          <div class="btn-part" style="display:flex; justify-content:center; width:100%; margin:30px auto 0;">
+            <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
               <i class="ph ph-phone-call" style="font-size:17px"></i>
               {{ site.PHONE }}
             </a>
@@ -142,7 +145,7 @@ permalink: "services/index.html"
   <div class="container">
     <h2 id="svcCtaH2">Need a Plumber Near You?</h2>
     <p>Our licensed plumbers are standing by for same day and 24/7 emergency service.</p>
-    <a class="readon green" href="{{ site.PHONE_HREF }}">
+    <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
       <i class="ph ph-phone-call" style="font-size:18px"></i>
       {{ site.PHONE }} — Call Now
     </a>

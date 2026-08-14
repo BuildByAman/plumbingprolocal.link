@@ -67,41 +67,34 @@ description: "Need a local plumber near you? We provide 24/7 emergency plumbing 
 } %}
 
 {# ── Banner ────────────────────────────────────────────────────────────── #}
+
 <div class="rs-banner">
-  <div class="container">
-    <div class="banner-row">
-      <div class="banner-content-col">
-        <div class="banner-content">
-          <div class="sub-label">
-            <i class="ph ph-map-pin" style="font-size:12px"></i>
-            Top-Rated Local Plumbing Experts
-          </div>
-          <h1 class="title">
-            The Best Plumber <span>Near Me</span>
-          </h1>
-          <p class="description">
-            {{ site.BRAND }} connects you with highly-rated, licensed local plumbers across the USA.
-            We specialize in rapid-response <strong>emergency plumbing near you</strong>, affordable <strong>drain cleaning</strong>, 
-            water heater repair &amp; installation, complete pipe leak repair, toilet repair, 
-            and 24-hour same day plumbing service. When you search for a "plumber near me," we are ready to assist. Call 24/7.
-          </p>
-          <div class="btn-part">
-            <a class="readon green" href="{{ site.PHONE_HREF }}">
-              <i class="ph ph-phone-call" style="font-size:17px"></i>
-              {{ site.PHONE }}
-            </a>
-          </div>
-        </div>
+  <div class="banner-bg">
+    
+    <picture>
+      <source media="(max-width: 767px)" srcset="/assets/images/mobile_hero.webp">
+      <img src="/assets/images/global_hero.webp" alt="Plumbing Background" width="1200" height="800" fetchpriority="high" decoding="async">
+    </picture>
+  </div>
+  <div class="container" style="position:relative; z-index:3">
+    <div class="banner-content-centered">
+      <div class="sub-label">
+        <i class="ph ph-map-pin"></i> Top-Rated Local Plumbing Experts
       </div>
-      <div class="banner-img-box">
-        <picture>
-          <source media="(max-width: 767px)" srcset="/assets/images/mobile_hero.webp">
-          <img src="/assets/images/global_hero.webp" alt="Professional plumber at work" width="800" height="600" loading="eager" decoding="async">
-        </picture>
+      <h1 class="title">The Best Plumber <span>Near Me</span></h1>
+      <p class="description">
+        We specialize in rapid-response <strong>emergency plumbing</strong>, affordable <strong>drain cleaning</strong>, 
+        and complete pipe leak repair. Available 24/7.
+      </p>
+      <div class="btn-part" style="justify-content:center; margin-top:40px;">
+        <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
+          <i class="ph ph-phone-call" style="font-size:18px"></i> {{ site.PHONE }}
+        </a>
       </div>
     </div>
   </div>
 </div>
+
 
 
 
@@ -220,7 +213,7 @@ description: "Need a local plumber near you? We provide 24/7 emergency plumbing 
   <div class="container">
     <h2>Need a Plumber Today? Call Now — Same Day Service</h2>
     <p>Our licensed local plumbers are standing by for same day and emergency service.</p>
-    <a class="readon green" href="{{ site.PHONE_HREF }}">
+    <a class="readon red-btn" href="{{ site.PHONE_HREF }}">
       <i class="ph ph-phone-call" style="font-size:18px"></i>
       {{ site.PHONE }} — Free Estimate
     </a>

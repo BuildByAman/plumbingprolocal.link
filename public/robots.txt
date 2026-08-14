@@ -29,4 +29,4 @@ Allow: /
 User-agent: Diffbot
 Allow: /
 
-Sitemap: https://plumbingprolocal.com/sitemap.xml
+Sitemap: https://plumbingprolocal.link/sitemap.xml
